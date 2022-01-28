@@ -92,7 +92,7 @@ const App = () => {
               Get your own Dev now !
             </p>
             <p className="sub-text">
-              Open console-log to see minting proccess (f12)
+              Open console to see minting proccess (f12)
             </p>
             {currentAccount === "" ? (
                 renderNotConnectedContainer()
