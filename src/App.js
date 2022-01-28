@@ -104,10 +104,7 @@ const App = () => {
           </div>
           <div className="footer-container">
             <p className="sub-text">
-                Dont use ETH Mainnet! Check if you are on Rinkeby net!
-            </p>
-            <p className="sub-text">
-                Szymon Mytych
+              Dont use ETH Mainnet! Check if you are on Rinkeby net! <br></br> Szymon Mytych
             </p>
           </div>
         </div>
