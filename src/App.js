@@ -89,7 +89,7 @@ const App = () => {
           <div className="header-container">
             <p className="header gradient-text">SmartDevsNFT</p>
             <p className="sub-text">
-              Get your own Dev now !
+              Get your own Dev now!
             </p>
             <p className="sub-text">
               Open console to see minting proccess (f12)
@@ -103,6 +103,9 @@ const App = () => {
             )}
           </div>
           <div className="footer-container">
+            <p className="sub-text">
+            Dont use ETH Mainnet! Check if you are on Rinkeby net!
+          </p>
             <p>Szymon Mytych</p>
           </div>
         </div>
